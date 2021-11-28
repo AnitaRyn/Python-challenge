@@ -1,1 +1,9 @@
 
+df.tail = total votes based on the voter ID = 3521000
+Candidates: 'Khan', 'Correy', 'Li', "O'Tooley"
+Number of votes: 
+
+Khan 	2218231
+Correy 	704200
+Li 	492940
+O'Tooley 	105630
